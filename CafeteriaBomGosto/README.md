@@ -20,8 +20,8 @@ CafeteriaBomGosto/
 │  ├─ cardapio.csv
 │  ├─ comanda.csv
 │  └─ item_comanda.csv
-│
-└─ (opcional) database.db
+
+
 ```
 
 ## Objetivo
