@@ -19,9 +19,8 @@ CafeteriaBomGosto/
 ├─ data/          # Dados utilizados no banco
 │  ├─ cardapio.csv
 │  ├─ comanda.csv
-│  └─ item_comanda.csv
-│
-└─ (opcional) database.db
+│  └─ item_comanda.csv│
+
 ```
 
 ## Objetivo
