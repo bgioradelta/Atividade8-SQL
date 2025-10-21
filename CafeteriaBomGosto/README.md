@@ -5,7 +5,7 @@ Este projeto simula o controle de vendas de uma cafeteria utilizando PostgreSQL.
 ## Estrutura de pastas
 
 ```
-BomGosto/
+CafeteriaBomGosto/
 │
 ├─ sql/           # Scripts SQL dos exercícios
 │  ├─ 00_criar_tabelas.sql
@@ -32,4 +32,4 @@ Atender às consultas solicitadas para o controle de comandas e vendas da cafete
 
 1. Execute `00_criar_tabelas.sql` para criar as tabelas.
 2. Execute `01_inserir_dados.sql` para popular o banco.
-3. Execute as demais consultas conforme as questões do trabalho.
+3. Execute as demais consultas conforme a necessidade.
